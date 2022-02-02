@@ -1,0 +1,5 @@
+.vscode
+signal-cli-config
+singnal-rest-api-client
+auth
+docker-compose.yml
