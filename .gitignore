@@ -1,2 +1,4 @@
 .vscode
 singnal-rest-api-client
+signal-cli-rest-api-client/*
+.DS_Store
